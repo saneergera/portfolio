@@ -116,6 +116,7 @@ console.log($('.magnify').magnificPopup)
 
     $('.slider').slick({
         arrows: false,
-        autoplay: true
+        autoplay: true,
+        speed: 2000,
     });
 });
